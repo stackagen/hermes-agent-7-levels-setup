@@ -1,10 +1,12 @@
 # Hermes Agent: 7 levels setup
 
-The companion files for my video **Hermes Agent: 7 Levels To Set Up Right After Install**.
+[![Watch the video](https://img.youtube.com/vi/qi_2nHZ9yoA/maxresdefault.jpg)](https://youtu.be/qi_2nHZ9yoA)
+
+The companion files for my video **Hermes Agent Setup: 7 Levels to Your Own AI Team**.
 
 One message to a boss agent on Telegram. He hands the work to two writer agents on a Kanban board, they write at the same time, and he sends back a Threads post and a short video script. A fourth agent checks the server every morning. All of it runs on a 4 GB server.
 
-- Video: YouTube link coming on release day
+- Video: [youtu.be/qi_2nHZ9yoA](https://youtu.be/qi_2nHZ9yoA)
 - Full written guide: [stackagen.com/guides/hermes-agent-setup-after-install](https://stackagen.com/guides/hermes-agent-setup-after-install)
 
 > Watch the video or read the guide first. This repo holds the files you paste, not the walkthrough.
